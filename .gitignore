@@ -7,4 +7,8 @@ frontend/dist/
 backend/coverage/
 npm-debug.log*
 yarn-debug.log*
+<<<<<<< HEAD
 pnpm-debug.log*
+=======
+pnpm-debug.log*
+>>>>>>> 1480b3f8af1eae372f64c03e77bc534395b1060d
